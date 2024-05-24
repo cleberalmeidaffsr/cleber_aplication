@@ -1,1 +1,1 @@
-Este é aplicativo para a disciplina de Mobile do Professor Geraldo Gomes, nele utilizo react native em sua construção.
+Aplicação em react native para atividade de Mobile.
